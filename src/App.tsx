@@ -134,6 +134,9 @@ function App() {
         <section className="charts-section">
           <div className="chart-row">
             <CategoryChart data={filteredStats.categoryBreakdown} />
+          </div>
+          
+          <div className="chart-row">
             <MonthlyTypeChart expenses={filteredExpenses} />
           </div>
           
