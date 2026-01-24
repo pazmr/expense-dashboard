@@ -55,7 +55,7 @@ const MonthlyIncomeChart = ({ expenses }: MonthlyIncomeChartProps) => {
           <CartesianGrid strokeDasharray="3 3" />
           <XAxis dataKey="month" />
           <YAxis />
-          <Tooltip formatter={(value: number) => formatCurrency(value)} />
+          <Tooltip formatter={(value) => value ? formatCurrency(value as number) : ''} />
           <Legend />
           {categories.map((category, index) => (
             <Bar

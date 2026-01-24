@@ -21,7 +21,7 @@ const TypeChart = ({ data }: TypeChartProps) => {
           <CartesianGrid strokeDasharray="3 3" />
           <XAxis dataKey="name" />
           <YAxis />
-          <Tooltip formatter={(value: number) => formatCurrency(value)} />
+          <Tooltip formatter={(value) => value ? formatCurrency(value as number) : ''} />
           <Legend />
           <Bar dataKey="total" fill="#8884d8" name="Total" />
         </BarChart>

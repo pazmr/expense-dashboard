@@ -31,7 +31,7 @@ const MonthlyTrendChart = ({ data }: MonthlyTrendChartProps) => {
           <CartesianGrid strokeDasharray="3 3" />
           <XAxis dataKey="month" />
           <YAxis />
-          <Tooltip formatter={(value: number) => formatCurrency(value)} />
+          <Tooltip formatter={(value) => value ? formatCurrency(value as number) : ''} />
           <Legend />
           <Line type="monotone" dataKey="Ingresos" stroke="#82ca9d" strokeWidth={2} />
           <Line type="monotone" dataKey="Gastos" stroke="#ff7c7c" strokeWidth={2} />
