@@ -95,6 +95,7 @@
   border-radius: 12px;
   padding: 1.5rem;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
 }
 
 .chart-container h3 {
@@ -258,38 +259,198 @@
 }
 
 /* Responsive Design */
+@media (max-width: 1024px) {
+  .chart-row {
+    grid-template-columns: 1fr;
+  }
+}
+
 @media (max-width: 768px) {
   .app {
-    padding: 1rem;
+    padding: 1rem 0.75rem;
+  }
+
+  .app-header {
+    margin-bottom: 1.5rem;
   }
 
   .app-header h1 {
-    font-size: 1.8rem;
+    font-size: 1.75rem;
+    margin-bottom: 0.25rem;
   }
 
+  .app-header p {
+    font-size: 1rem;
+  }
+
+  /* Summary Cards */
   .summary-section {
     grid-template-columns: 1fr;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .summary-card {
+    padding: 1.25rem;
+  }
+
+  .summary-card-value {
+    font-size: 1.5rem;
+  }
+
+  /* Charts */
+  .charts-section {
+    gap: 1rem;
+    margin-bottom: 1.5rem;
   }
 
   .chart-row {
     grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .chart-container {
+    padding: 1rem;
+  }
+
+  .chart-container h3 {
+    font-size: 1rem;
+    margin-bottom: 0.75rem;
+  }
+
+  /* Filters */
+  .filters-section {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    padding: 0 0.5rem;
+  }
+
+  .filters-section label {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .filters-section select {
+    margin-left: 0 !important;
+    margin-top: 0.5rem;
+    width: 100%;
+    padding: 0.6rem !important;
+  }
+
+  /* Table */
+  .expense-table-container {
+    padding: 1rem;
   }
 
   .table-filters {
     flex-direction: column;
+    gap: 0.75rem;
   }
 
   .search-input {
     width: 100%;
+    min-width: unset;
+  }
+
+  .filter-select {
+    width: 100%;
   }
 
   .expense-table {
-    font-size: 0.85rem;
+    font-size: 0.8rem;
+    display: block;
+    overflow-x: auto;
   }
 
-  .expense-table th,
+  .expense-table thead {
+    display: none;
+  }
+
+  .expense-table tbody,
+  .expense-table tr {
+    display: block;
+  }
+
+  .expense-table tr {
+    margin-bottom: 1rem;
+    border: 1px solid #eee;
+    border-radius: 8px;
+    padding: 0.75rem;
+    background: white;
+  }
+
   .expense-table td {
-    padding: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem 0;
+    border-bottom: 1px solid #f5f5f5;
+  }
+
+  .expense-table td:last-child {
+    border-bottom: none;
+  }
+
+  .expense-table td::before {
+    content: attr(data-label);
+    font-weight: 600;
+    color: #666;
+    flex: 0 0 40%;
+  }
+
+  /* Pagination */
+  .pagination {
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .pagination-button {
+    width: 100%;
+    padding: 0.75rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .app {
+    padding: 0.75rem 0.5rem;
+  }
+
+  .app-header h1 {
+    font-size: 1.5rem;
+  }
+
+  .app-header p {
+    font-size: 0.9rem;
+  }
+
+  .summary-card {
+    padding: 1rem;
+  }
+
+  .summary-card-value {
+    font-size: 1.35rem;
+  }
+
+  .chart-container {
+    padding: 0.75rem;
+  }
+
+  .expense-table {
+    font-size: 0.75rem;
+  }
+
+  .badge {
+    font-size: 0.75rem;
+    padding: 0.2rem 0.5rem;
+  }
+
+  /* Make buttons more touch-friendly */
+  button,
+  .pagination-button,
+  select,
+  input {
+    min-height: 44px;
   }
 }
 

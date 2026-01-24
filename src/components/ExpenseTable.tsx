@@ -76,18 +76,18 @@ const ExpenseTable = ({ expenses }: ExpenseTableProps) => {
           <tbody>
             {paginatedExpenses.map((expense, index) => (
               <tr key={index}>
-                <td>{formatDate(expense.date)}</td>
-                <td>
+                <td data-label="Fecha">{formatDate(expense.date)}</td>
+                <td data-label="Tipo">
                   <span className={`badge badge-${expense.type === 'Ingreso' ? 'income' : 'expense'}`}>
                     {expense.type}
                   </span>
                 </td>
-                <td>{expense.category}</td>
-                <td>{expense.description}</td>
-                <td className={expense.type === 'Ingreso' ? 'income-amount' : 'expense-amount'}>
+                <td data-label="Categoría">{expense.category}</td>
+                <td data-label="Descripción">{expense.description}</td>
+                <td data-label="Monto" className={expense.type === 'Ingreso' ? 'income-amount' : 'expense-amount'}>
                   {formatCurrency(Math.abs(expense.amount))}
                 </td>
-                <td>{expense.responsible || '-'}</td>
+                <td data-label="Responsable">{expense.responsible || '-'}</td>
               </tr>
             ))}
           </tbody>
