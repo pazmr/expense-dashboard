@@ -24,7 +24,7 @@ function App() {
       try {
         setLoading(true);
         console.log('Loading CSV data...');
-        const data = await loadExpensesFromCSV('./expenses.csv');
+        const data = await loadExpensesFromCSV(`${import.meta.env.BASE_URL}expenses.csv`);
         console.log('Data loaded:', data.length, 'records');
         setExpenses(data);
         const calculatedStats = calculateDashboardStats(data);
