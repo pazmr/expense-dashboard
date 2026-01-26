@@ -103,7 +103,55 @@ npm run build
 
 # Preview del build de producción
 npm run preview
+
+# Desplegar a GitHub Pages
+npm run deploy
 ```
+
+## 🚀 Despliegue a GitHub Pages
+
+El proyecto está configurado para desplegarse automáticamente en GitHub Pages.
+
+### Pasos para Desplegar
+
+1. **Hacer commit de tus cambios locales:**
+   ```bash
+   git add .
+   git commit -m "Actualización de datos"
+   git push origin main
+   ```
+
+2. **Desplegar a GitHub Pages:**
+   ```bash
+   npm run deploy
+   ```
+
+3. **Verificar el despliegue:**
+   ```bash
+   git fetch origin
+   git log origin/gh-pages -1
+   ```
+   Esto mostrará el último commit en la rama `gh-pages`. Si la fecha es reciente, el despliegue fue exitoso.
+
+### URL del Sitio
+Tu dashboard estará disponible en: `https://[tu-usuario].github.io/expense-dashboard/`
+
+### Solución de Problemas de Despliegue
+
+**Si la página no se actualiza:**
+1. Espera 1-2 minutos después de ejecutar `npm run deploy`
+2. Limpia el caché del navegador (Ctrl+F5 o Shift+F5)
+3. Verifica que el commit se haya creado en la rama `gh-pages`:
+   ```bash
+   git fetch origin
+   git log origin/gh-pages -1 --format="%H %ci %s"
+   ```
+4. Si no hay un commit nuevo, ejecuta `npm run deploy` nuevamente
+
+**Asegurarse de que GitHub Pages esté habilitado:**
+- Ve a Settings → Pages en tu repositorio de GitHub
+- Source debe estar configurado en "Deploy from a branch"
+- Branch debe ser `gh-pages` con la carpeta `/ (root)`
 
 ## 🎨 Personalización
 

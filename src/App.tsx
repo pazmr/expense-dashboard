@@ -5,6 +5,7 @@ import { calculateDashboardStats } from './utils/dataProcessing';
 import SummaryCard from './components/SummaryCard';
 import CategoryChart from './components/CategoryChart';
 import MonthlyTypeChart from './components/MonthlyTypeChart';
+import DailyTypeChart from './components/DailyTypeChart';
 import MonthlyIncomeChart from './components/MonthlyIncomeChart';
 import ResponsibleChart from './components/ResponsibleChart';
 import MonthlyTrendChart from './components/MonthlyTrendChart';
@@ -16,6 +17,8 @@ function App() {
   const [stats, setStats] = useState<DashboardStats | null>(null);
   const [years, setYears] = useState<string[]>([]);
   const [selectedYear, setSelectedYear] = useState<string>('all');
+  const [months, setMonths] = useState<string[]>([]);
+  const [selectedMonth, setSelectedMonth] = useState<string>('all');
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
@@ -52,6 +55,23 @@ function App() {
     if (selectedYear === 'all') return expenses;
     return expenses.filter((e) => e.date.getFullYear().toString() === selectedYear);
   }, [expenses, selectedYear]);
+
+  // Update available months when year changes
+  useMemo(() => {
+    const uniqueMonths = Array.from(
+      new Set(
+        filteredExpenses.map(
+          (d) =>
+            `${d.date.getFullYear()}-${String(d.date.getMonth() + 1).padStart(
+              2,
+              '0'
+            )}`
+        )
+      )
+    ).sort((a, b) => b.localeCompare(a));
+    setMonths(['all', ...uniqueMonths]);
+    setSelectedMonth('all');
+  }, [selectedYear, filteredExpenses]);
 
   const filteredStats = useMemo(() => {
     if (!stats) return null;
@@ -138,6 +158,15 @@ function App() {
           
           <div className="chart-row">
             <MonthlyTypeChart expenses={filteredExpenses} />
+          </div>
+
+          <div className="chart-row">
+            <DailyTypeChart 
+              expenses={filteredExpenses} 
+              selectedMonth={selectedMonth}
+              months={months}
+              onMonthChange={setSelectedMonth}
+            />
           </div>
           
           <div className="chart-row">
