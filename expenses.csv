@@ -26,7 +26,12 @@
 20260122,17:12:42,Transferencia Qr Bm Qr Cobrod - Banco Union - Rivas Villegas Paola Alejandra - 10000065026516,Agencia,Agencia Central la Paz,-250,"21,439.03",Gasto,No rutinario,Cables,,Max
 20260122,17:16:01,Transferencia Qr Bm Qr Cobrod - Banco Union - Rivas Villegas Paola Alejandra - 10000065026516,Agencia,Agencia Central la Paz,-130,"21,309.03",Gasto,No rutinario,Cables,,Max
 20260122,20:04:20,Transferencia Qr Bm Qr Pago Qr 035006013300035115 - Banco Economico - Hipermaxi Sa - 2041322619,Agencia,Agencia Central la Paz,-321.57,"20,987.46",Gasto,Extra,Dulces,,Max
-202601224,,,,BM ACH CUOTA,"-3,350.00",,Gasto,Rutinario,Dueda Bancaria,Vehiculo,Max
-202601224,,,,BM ACH INTERBANCA,"-1,800.00",,Gasto,Rutinario,Dueda Bancaria,Casa,Max
-202601224,,,,BM PAGO TARJETAC,"-1,000.00",,Gasto,Rutinario,Dueda Bancaria,Tarjeta,Max
-202601222,,,,RET ATM.B201251 OB,-500,,Gasto,Rutinario,Varios,Retiro de cajero,Max
+20260124,10:30:03,Transferencia Bm Ach Cuota - Banco Union - Maximiliano Ruben Paz Ali - 10000047939860,Transferencia Interbancaria,Agencia Central la Paz,-3350,14337.46,Gasto,Rutinario,Dueda Bancaria,Vehiculo,Max
+20260124,10:19:03,Transferencia Bm Ach Interbancaria - Banco Mercantil - Maximiliano Paz - 4060146496,Transferencia Interbancaria,Agencia Central la Paz,-1800,17687.46,Gasto,Rutinario,Dueda Bancaria,Casa,Max
+20260124,09:28:14,Pago de Tarjeta -  465982xxxxxx3018,Banca Movil,Agencia Central la Paz,-1000,19487.46,Gasto,Rutinario,Dueda Bancaria,Tarjeta,Max
+20260122,22:13:58,Retiro en Atm,Cajero Automatico Atm,Av. Hernando Siles Casi Esq. Calle 16 (licorería Oasis),-500,20487.46,Gasto,Rutinario,Varios,Retiro de cajero,Max
+20260124,18:04:54,Transferencia Qr Bm Qr Pago Qr 035007019700035165 - Banco Economico - Hipermaxi Sa - 2041322619,Agencia,Agencia Central la Paz,-105.5,14231.96,Gasto,Extra,Dulces,,Faby
+20260125,16:25:04,Transferencia Qr Bm Qr Pagos Qr - Banco Nacional de Bolivia - Cata Romero Sofia - 2504029053,Agencia,Agencia Central la Paz,-495,13736.96,Gasto,Extra,Juguetes,Chucky,Fabry
+20260125,16:28:45,Transferencia Qr Bm Qr 27293356 - Bolivian Foods Mega T2 - Administradora de Tarjetas de Credito S.a. - A.t.c. S.a. - 242991630,Agencia,Agencia Central la Paz,-169,13567.96,Gasto,Extra,Comida,Burger King,Faby
+20260125,16:31:26,Transferencia Qr Toby Megacen   a: 7015035540377 Burger y Fries Bolivia S. R.l.,Banca Movil,Agencia Central la Paz,-35,13532.96,Gasto,Extra,Comida,Toby,Faby
+20260125,17:19:23,Transferencia Qr Bm Qr Compra Qr - 51001 - Linkser S.a. - 10029343,Agencia,Agencia Central la Paz,-168,13364.96,Gasto,Extra,Comida,Pipocas,Faby
