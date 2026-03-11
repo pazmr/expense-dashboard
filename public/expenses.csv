@@ -3,32 +3,32 @@
 20260102,13:22:20,Transferencia Qr Toby Megacen   a: 7015035540377 Burger y Fries Bolivia S. R.l.,Banca Movil,Agencia Central la Paz,-208,"8,065.94",Gasto,Extra,Comida,,Faby
 20260102,14:07:09,Transferencia Qr Bm Qr Yape - Billetera - Dania Quispe Quispe - 69865225,Agencia,Agencia Central la Paz,-110,"7,955.94",Gasto,Extra,Varios,,Faby
 20260102,14:09:18,Retiro en Atm,Cajero Automatico Atm,Av. Rafael Pabón S/n (mega Center) - Irpavi,-500,"7,455.94",Gasto,Rutinario,Gastos Varios,Retiro de cajero,Max
-20260105,00:00:00,Retencionrciva,Automático,Agencia Central la Paz,-2.15,"7,453.79",Gasto,Rutinario,Impuestos,,Max
-20260105,00:00:00,Interesganado,Automático,Agencia Central la Paz,16.52,"7,470.31",Ingreso,Ingreso,Intereses,,Max
+20260105,0:00:00,Retencionrciva,Automático,Agencia Central la Paz,-2.15,"7,453.79",Gasto,Rutinario,Impuestos,,Max
+20260105,0:00:00,Interesganado,Automático,Agencia Central la Paz,16.52,"7,470.31",Ingreso,Ingreso,Intereses,,Max
 20260106,17:06:12,Transferencia Qr Bm Qr Aportes Caulp - Banco Sol - Colegio de Auditores y Contadores p Blicos Autorizados del Departament - 2102487000017,Agencia,Agencia Central la Paz,-150,"7,320.31",Gasto,Rutinario,Gastos Varios,Colegio de auditores,Max
-20260107,09:19:01,Transferencia Qr Bcp   a: 20151126067373 Cardozo Paz Iris,Banca Movil,Agencia Central la Paz,-250,"7,070.31",Gasto,Rutinario,Servicio Contablle,,Max
+20260107,9:19:01,Transferencia Qr Bcp   a: 20151126067373 Cardozo Paz Iris,Banca Movil,Agencia Central la Paz,-250,"7,070.31",Gasto,Rutinario,Servicio Contablle,,Max
 20260108,11:17:29,Transferencia Compras   a: 20151217945379 Suarez Perez-de-paz Ana Fabiola,Banca Movil,Agencia Central la Paz,-400,"6,670.31",Gasto,Rutinario,Gastos Varios,Faby,Faby
 20260108,19:36:48,Transferencia Qr Bcp   a: 20150802810351 Gutierrez Mamani Jose Luis,Banca Movil,Agencia Central la Paz,-39,"6,631.31",Gasto,Rutinario,Gastos Varios,Faby,Faby
 20260110,13:43:44,Transferencia Qr Bm Qr 26062680 - Pollos Cbba Obrajes - Administradora de Tarjetas de Credito S.a. - A.t.c. S.a. - 242991630,Agencia,Agencia Central la Paz,-120,"6,511.31",Gasto,Extra,Comida,,Faby
 20260111,13:23:22,Retiro en Atm,Cajero Automatico Atm,Av. Hernando Siles Casi Esq. Calle 16 (licorería Oasis),-500,"6,011.31",Gasto,Extra,Comida,Retiro de cajero,Max
 20260112,10:00:08,Transferencia Comida   a: 20151217945379 Suarez Perez-de-paz Ana Fabiola,Banca Movil,Agencia Central la Paz,-1000,"5,011.31",Gasto,Rutinario,Gastos Mensuales,Comida,Faby
-20260113,05:27:48,Transacción Credinet Web -110001487,Credinet Web Bcp,Agencia Central la Paz,111.58,"5,122.89",Ingreso,Ingreso,Salario,,Max
-20260116,08:46:47,Transferencia Bm Ach Pagos - Banco Bisa - Ana Gladys Paz Vda. de Gálvez - 784474020,Transferencia Interbancaria,Agencia Central la Paz,-100,"5,022.89",Gasto,Extra,Deudas,MAM,Max
+20260113,5:27:48,Transacción Credinet Web -110001487,Credinet Web Bcp,Agencia Central la Paz,111.58,"5,122.89",Ingreso,Ingreso,Salario,,Max
+20260116,8:46:47,Transferencia Bm Ach Pagos - Banco Bisa - Ana Gladys Paz Vda. de Gálvez - 784474020,Transferencia Interbancaria,Agencia Central la Paz,-100,"5,022.89",Gasto,Extra,Deudas,MAM,Max
 20260117,11:43:20,Transferencia Comida   a: 20151217945379 Suarez Perez-de-paz Ana Fabiola,Banca Movil,Agencia Central la Paz,-650,"4,372.89",Gasto,Extra,Varios,Faby,Faby
 20260117,17:20:40,Transferencia Bm Ach Bm Interbancaria - Banco Mercantil - Maximiliano Paz - 4060146496,Transferencia Interbancaria,Agencia Central la Paz,-300,"4,072.89",Gasto,Rutinario,Servicios Internet,,Max
 20260117,19:50:38,Retiro en Atm,Cajero Automatico Atm,Av. Hernando Siles Casi Esq. Calle 16 (licorería Oasis),-500,"3,572.89",Gasto,Rutinario,Varios,Retiro de cajero,Max
 20260117,23:08:44,Transferencia Qr Bm Qr Yape - Billetera - Cintia Jurado Flores - 75886748,Agencia,Agencia Central la Paz,-90,"3,482.89",Gasto,Extra,Varios,Faby,Faby
-20260118,00:16:45,Transferencia Qr Bm Qr Yape - Billetera - Cintia Jurado Flores - 75886748,Agencia,Agencia Central la Paz,-105,"3,377.89",Gasto,Extra,Varios,Faby,Faby
-20260118,06:12:21,Qr Bm Qr Yape,Agencia,Agencia Central la Paz,-80,"3,297.89",Gasto,Extra,Varios,Faby,Faby
+20260118,0:16:45,Transferencia Qr Bm Qr Yape - Billetera - Cintia Jurado Flores - 75886748,Agencia,Agencia Central la Paz,-105,"3,377.89",Gasto,Extra,Varios,Faby,Faby
+20260118,6:12:21,Qr Bm Qr Yape,Agencia,Agencia Central la Paz,-80,"3,297.89",Gasto,Extra,Varios,Faby,Faby
 20260120,11:17:54,Transferencia Colegio   a: 20151217945379 Suarez Perez-de-paz Ana Fabiola,Banca Movil,Agencia Central la Paz,-1800,"1,497.89",Gasto,Rutinario,Gastos Mensuales,Colegio,Faby
-20260122,07:00:46,Transacción Credinet Web Cw-salary Payment,Credinet Web Bcp,Agencia Central la Paz,20401.14,"21,899.03",Ingreso,Ingreso,Salario,,Max
+20260122,7:00:46,Transacción Credinet Web Cw-salary Payment,Credinet Web Bcp,Agencia Central la Paz,20401.14,"21,899.03",Ingreso,Ingreso,Salario,,Max
 20260122,17:03:12,Transferencia Qr Bm Qr Yape - Billetera - Duverlyn Romulo Luna Velasco - 67101095,Agencia,Agencia Central la Paz,-210,"21,689.03",Gasto,No rutinario,Cables,,Max
 20260122,17:12:42,Transferencia Qr Bm Qr Cobrod - Banco Union - Rivas Villegas Paola Alejandra - 10000065026516,Agencia,Agencia Central la Paz,-250,"21,439.03",Gasto,No rutinario,Cables,,Max
 20260122,17:16:01,Transferencia Qr Bm Qr Cobrod - Banco Union - Rivas Villegas Paola Alejandra - 10000065026516,Agencia,Agencia Central la Paz,-130,"21,309.03",Gasto,No rutinario,Cables,,Max
 20260122,20:04:20,Transferencia Qr Bm Qr Pago Qr 035006013300035115 - Banco Economico - Hipermaxi Sa - 2041322619,Agencia,Agencia Central la Paz,-321.57,"20,987.46",Gasto,Extra,Dulces,,Max
 20260124,10:30:03,Transferencia Bm Ach Cuota - Banco Union - Maximiliano Ruben Paz Ali - 10000047939860,Transferencia Interbancaria,Agencia Central la Paz,-3350,14337.46,Gasto,Rutinario,Dueda Bancaria,Vehiculo,Max
 20260124,10:19:03,Transferencia Bm Ach Interbancaria - Banco Mercantil - Maximiliano Paz - 4060146496,Transferencia Interbancaria,Agencia Central la Paz,-1800,17687.46,Gasto,Rutinario,Dueda Bancaria,Casa,Max
-20260124,09:28:14,Pago de Tarjeta -  465982xxxxxx3018,Banca Movil,Agencia Central la Paz,-1000,19487.46,Gasto,Rutinario,Dueda Bancaria,Tarjeta,Max
+20260124,9:28:14,Pago de Tarjeta -  465982xxxxxx3018,Banca Movil,Agencia Central la Paz,-1000,19487.46,Gasto,Rutinario,Dueda Bancaria,Tarjeta,Max
 20260122,22:13:58,Retiro en Atm,Cajero Automatico Atm,Av. Hernando Siles Casi Esq. Calle 16 (licorería Oasis),-500,20487.46,Gasto,Rutinario,Varios,Retiro de cajero,Max
 20260124,18:04:54,Transferencia Qr Bm Qr Pago Qr 035007019700035165 - Banco Economico - Hipermaxi Sa - 2041322619,Agencia,Agencia Central la Paz,-105.5,14231.96,Gasto,Extra,Dulces,,Faby
 20260125,16:25:04,Transferencia Qr Bm Qr Pagos Qr - Banco Nacional de Bolivia - Cata Romero Sofia - 2504029053,Agencia,Agencia Central la Paz,-495,13736.96,Gasto,Extra,Juguetes,Chucky,Fabry
@@ -36,10 +36,47 @@
 20260125,16:31:26,Transferencia Qr Toby Megacen   a: 7015035540377 Burger y Fries Bolivia S. R.l.,Banca Movil,Agencia Central la Paz,-35,13532.96,Gasto,Extra,Comida,Toby,Faby
 20260125,17:19:23,Transferencia Qr Bm Qr Compra Qr - 51001 - Linkser S.a. - 10029343,Agencia,Agencia Central la Paz,-168,13364.96,Gasto,Extra,Comida,Pipocas,Faby
 20260126,10:51:42,Transferencia Comida   a: 20151217945379 Suarez Perez-de-paz Ana Fabiola,Banca Movil,Agencia Central la Paz,-900,"12,464.96",Gasto,Rutinario,Comida,Bisemanal,Faby
-20260127,08:41:17,Transferencia Bm Ach 12c 12-2025 - Banco Bisa - Maxima Sonia Cadena Cabrera - 0866004021,Transferencia Interbancaria,Agencia Central la Paz,-352.22,"12,112.74",Gasto,Rutinario,Mantenimiento,Mantenimiento 12/2025,Faby
+20260127,8:41:17,Transferencia Bm Ach 12c 12-2025 - Banco Bisa - Maxima Sonia Cadena Cabrera - 0866004021,Transferencia Interbancaria,Agencia Central la Paz,-352.22,"12,112.74",Gasto,Rutinario,Mantenimiento,Mantenimiento 12/2025,Faby
 20260127,11:18:33,Transferencia Lentes   a: 20151217945379 Suarez Perez-de-paz Ana Fabiola,Banca Movil,Agencia Central la Paz,-1350,"10,762.74",Gasto,Rutinario,Pensiones,Colegio,Faby
 20260127,18:07:20,Transferencia Qr Bm Qr Libreria y Papeleria Olimpia Srl-calacoto - Banco Bisa - Libreria y Papeleria Olimpia S.r.l. - 410834014,Agencia,Agencia Central la Paz,-680.5,"10,082.24",Gasto,No rutinario,Utiles,,Faby
 20260127,18:22:36,Transferencia Qr Bm Qr San Miguel - Banco Ganadero - Porrez Vedia Fabiola - 1311494545,Agencia,Agencia Central la Paz,-120,"9,962.24",Gasto,No rutinario,Utiles,,Faby
 20260127,18:37:09,Transferencia Qr 812001-sinfr   a: 2015044323389 Inbodi S.r.l.,Banca Movil,Agencia Central la Paz,-679,"9,283.24",Gasto,No rutinario,Utiles,Mochila,Faby
 20260127,18:49:12,Transferencia Qr Bm Qr Venta Andys Sm4 - Banco Mercantil - Andy s Tiendas Inteligentes S.r.l. - 4074354048,Agencia,Agencia Central la Paz,-149.1,"9,134.14",Gasto,Extra,Comida,Supermercado,Faby
 20260131,20:48:07,Transferencia Qr Bm Qr Yape - Billetera - Jose Ricardo Aruquipa Posadas - 61219293,Agencia,Agencia Central la Paz,-141,"8,993.14",Gasto,Extra,Comida,Tacos,Faby
+20260201,16:34:09,Transferencia Gastos   a: 20151217945379 Suarez Perez-de-paz Ana Fabiola,Banca Movil,Agencia Central la Paz,-2800,"6,193.14",Gasto,Extra,Gastos Varios,,Faby
+20260202,9:24:33,Transferencia Qr Bm Qr Cobros - Banco Union - Armando Guerrero Perez - 10000063061051,Agencia,Agencia Central la Paz,-1000,"5,193.14",Gasto,No rutinario,CRYPTO,USDT,Max
+20260202,20:49:12,Transferencia Qr  - Banco Bisa - Paz Ali Ana Gladys                       - 0784474020,Transferencia Interbancaria,Agencia Central la Paz,1800,"6,993.14",Ingreso,Ingreso,Deudas,MAM,Max
+20260202,21:14:08,Transferencia Qr Bcp   a: 20150802810351 Gutierrez Mamani Jose Luis,Banca Movil,Agencia Central la Paz,-39,"6,954.14",Gasto,Extra,Gastos Varios,,Faby
+20260202,0:00:00,Interesganado,Automático,Agencia Central la Paz,13.52,"6,967.66",Ingreso,Ingreso,Intereses,,Max
+20260202,0:00:00,Retencionrciva,Automático,Agencia Central la Paz,-1.76,"6,965.90",Gasto,Rutinario,Gastos Varios,,Max
+20260203,8:49:02,Transferencia Qr Bm Qr Transferencia - Banco Union - Efrain Ajata Pujro - 10000041059581,Agencia,Agencia Central la Paz,-2000,"4,965.90",Gasto,No rutinario,CRYPTO,USDT,Max
+20260203,10:16:01,Transferencia Gastos   a: 20151217945379 Suarez Perez-de-paz Ana Fabiola,Banca Movil,Agencia Central la Paz,-648,"4,317.90",Gasto,Extra,Gastos Varios,,Faby
+20260203,12:10:57,Transferencia Sin Detalle - Banco Bisa - Paz Ali Ana Gladys - 784474020,Transferencia Interbancaria,Agencia Central la Paz,2700,"7,017.90",Ingreso,Ingreso,Deudas,MAM,Max
+20260203,14:06:43,Transferencia Qr Bm Qr Pago Varios - Banco Union - Jorge David Villarpando Cerda - 10000007678888,Agencia,Agencia Central la Paz,-2500,"4,517.90",Gasto,No rutinario,CRYPTO,USDT,Max
+20260204,16:00:31,Retiro en Atm,Cajero Automatico Atm,Calle 15 Esq. Av. Sanchez Bustamante # 8017 - Calacoto,-500,"4,017.90",Gasto,Extra,Gastos Varios,,Max
+20260206,9:50:18,Transferencia Qr Bm Qr Aportes Caulp - Banco Sol - Colegio de Auditores y Contadores p Blicos Autorizados del Departament - 2102487000017,Agencia,Agencia Central la Paz,-150,"3,867.90",Gasto,Rutinario,Gastos Varios,CAULP,Max
+20260209,9:00:51,Transferencia Comida   a: 20151217945379 Suarez Perez-de-paz Ana Fabiola,Banca Movil,Agencia Central la Paz,-1040,"2,827.90",Gasto,Rutinario,Comida,,Faby
+20260211,18:38:26,Retiro en Atm,Cajero Automatico Atm,Calle 15 Esq. Av. Sanchez Bustamante # 8017 - Calacoto,-400,"2,427.90",Gasto,Rutinario,Gastos Varios,,Max
+20260212,15:20:42,Transferencia Qr Bm Qr Interbancaria  - Banco Nacional de Bolivia - Condori Parra Carlos Bruno - 1504417081,Agencia,Agencia Central la Paz,-64.5,"2,363.40",Gasto,Rutinario,Gastos Varios,,Max
+20260214,20:58:14,Retiro en Atm,Cajero Automatico Atm,Av. Hernando Siles Casi Esq. Calle 16 (licorería Oasis),-400,"1,963.40",Gasto,Extra,Gastos Varios,Trago,Max
+20260215,13:59:25,Transferencia Qr Bm Qr 29059694 - Bolivian Foods Mega T1 - Administradora de Tarjetas de Credito S.a. - A.t.c. S.a. - 242991630,Agencia,Agencia Central la Paz,-169,"1,794.40",Gasto,Extra,Comida,,Faby
+20260217,7:44:38,Transferencia Bm Ach Compras - Banco Bisa - Maximiliano Paz - 1968414026,Transferencia Interbancaria,Agencia Central la Paz,-200,"1,594.40",Gasto,Extra,Gastos Varios,,Max
+20260217,20:40:34,Transferencia Qr Bm Qr Snak Igor - Banco Economico - Choque Mendoza Grover Franz - 2021652666,Agencia,Agencia Central la Paz,-60,"1,534.40",Gasto,Extra,Gastos Varios,,Max
+20260220,21:33:47,Transferencia Qr Bm Qr Hipermaxi S.a. Pago 50.40 - Banco Economico - Hipermaxi Sa - 2041322619,Agencia,Agencia Central la Paz,-50.4,"1,484.00",Gasto,Extra,Comida,,Faby
+20260221,9:10:48,Transferencia Qr Bm Qr Recaudaciones Ip Qr la Paz - Zona Sur - Banco Bisa - Ong Centro de Investigacion Educacion y Servicios Cies - 3852810181,Agencia,Agencia Central la Paz,-210,"1,274.00",Gasto,Extra,Servicio Medico,,Max
+20260221,12:50:08,Transferencia Qr Bcp   a: 20151152304376 Laure Callisaya Cleber Omar,Banca Movil,Agencia Central la Paz,-245,"1,029.00",Gasto,Extra,Comida,,Faby
+20260222,8:14:27,Transferencia Comida   a: 20151217945379 Suarez Perez-de-paz Ana Fabiola,Banca Movil,Agencia Central la Paz,-90,939,Gasto,Extra,Comida,,Faby
+20260222,17:20:32,Transferencia Qr Bm Qr Pago Qr 035004022000035162 - Banco Economico - Hipermaxi Sa - 2041322619,Agencia,Agencia Central la Paz,-43.5,895.5,Gasto,Extra,Comida,,Faby
+20260223,7:00:23,Transacción Credinet Web Cw-salary Payment,Credinet Web Bcp,Agencia Central la Paz,20413.58,"21,309.08",Ingreso,Ingreso,Salario,,Max
+20260223,7:12:48,Pago de Tarjeta -  465982xxxxxx3018,Banca Movil,Agencia Central la Paz,-1100,"20,209.08",Gasto,Rutinario,Deudas,Tarjeta de credito,Max
+20260223,10:10:12,Transferencia Comida   a: 20151217945379 Suarez Perez-de-paz Ana Fabiola,Banca Movil,Agencia Central la Paz,-900,"19,309.08",Gasto,Extra,Comida,,Faby
+20260223,10:11:10,Transferencia Bm Ach Cuota - Banco Union - Maximiliano Ruben Paz Ali - 10000047939860,Transferencia Interbancaria,Agencia Central la Paz,-3350,"15,959.08",Gasto,Rutinario,Deudas,BUN,Max
+20260223,10:12:11,Transferencia Bm Ach Interbancaria - Banco Mercantil - Maximiliano Paz - 4060146496,Transferencia Interbancaria,Agencia Central la Paz,-1800,"14,159.08",Gasto,Rutinario,Deudas,BMSC,Max
+20260223,15:56:54,Transferencia Gastos   a: 20151217945379 Suarez Perez-de-paz Ana Fabiola,Banca Movil,Agencia Central la Paz,-4600,"9,559.08",Gasto,Rutinario,Gastos Mensuales,,Faby
+20260224,18:31:23,Transferencia Bm Ach Deuda 1 - Banco Bisa - Ana Gladys Paz Vda. de Gálvez - 784474020,Transferencia Interbancaria,Agencia Central la Paz,-900,"8,659.08",Gasto,Rutinario,Comida,,Faby
+20260225,9:00:38,Transferencia Qr Pasv   a: 20151956681376 Echeverria Marca Juan Gabriel,Banca Movil,Agencia Central la Paz,-1000,"7,659.08",Gasto,No rutinario,CRYPTO,,Max
+20260227,10:12:45,Transferencia Qr Salte As   a: 20151687143316 Zenteno Morales Andre Sebastian,Banca Movil,Agencia Central la Paz,-12.25,"7,646.83",Gasto,Extra,Comida,,Max
+20260227,14:38:33,Retiro en Atm,Cajero Automatico Atm,Av. Hernando Siles Casi Esq. Calle 16 (licorería Oasis),-500,"7,146.83",Gasto,Extra,Gastos Varios,,Max
+20260227,14:39:33,Retiro en Atm,Cajero Automatico Atm,Av. Hernando Siles Casi Esq. Calle 16 (licorería Oasis),-30,"7,116.83",Gasto,Extra,Gastos Varios,,Max
+20260228,11:55:20,Transferencia Qr Compra de Ju   a: 2015029741396 Pinkas de Winer Ana,Banca Movil,Agencia Central la Paz,-242,"6,874.83",Gasto,Extra,Comida,,Faby
+20260228,13:42:41,Transferencia Qr Bm Qr Interbancaria  - Banco Sol - Antonio Apaza Perez - 2848069000001,Agencia,Agencia Central la Paz,-600,"6,274.83",Gasto,Extra,Gastos Varios,,Max
